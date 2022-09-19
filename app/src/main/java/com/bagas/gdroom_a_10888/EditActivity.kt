@@ -21,6 +21,7 @@ class EditActivity : AppCompatActivity() {
         setupListener()
 //
 // Toast.makeText(this, noteId.toString(),Toast.LENGTH_SHORT).show()
+//        tyttyty
     }
     fun setupView(){
         supportActionBar!!.setDisplayHomeAsUpEnabled(true)
